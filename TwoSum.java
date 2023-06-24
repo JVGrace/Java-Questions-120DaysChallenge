@@ -1,8 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
 public class TwoSum {
-
     public static int[] findIndices(int[] arr, int t) {
         Arrays.sort(arr);
 

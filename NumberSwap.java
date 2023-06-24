@@ -1,5 +1,4 @@
 import java.util.*;
-
 class swap{
     public static int Swap(int number_to_swap){
         System.out.println("The Number Given by user is :"+number_to_swap);
