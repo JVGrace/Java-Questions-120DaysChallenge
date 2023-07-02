@@ -1,9 +1,3 @@
-/**
- * 
- * Problem Statement-
- * [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) 
- * 
- */
 package com.javaaid.hackerrank.solutions.algorithms.greedy;
 
 import java.util.ArrayList;
@@ -16,10 +10,6 @@ import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.Set;
 
-/**
- * @author Kanahaiya Gupta
- *
- */
 public class JimAndTheOrders {
 	public static void main(String[] args) {
 		Map<Integer, Integer> hmap = new LinkedHashMap<Integer, Integer>();
