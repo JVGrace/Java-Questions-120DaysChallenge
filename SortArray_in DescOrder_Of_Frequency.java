@@ -31,12 +31,9 @@ static int sortByFreq(Integer []arr, int n)
 			arr[cnt] = 100000 * freq[i] + value;
 			cnt++;
 		}
-	}
-
-	
+	}	
 	return cnt;
 }
-
 static void printSortedArray(Integer []arr, int cnt)
 {
 
