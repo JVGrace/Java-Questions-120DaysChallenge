@@ -14,8 +14,6 @@ static int findMaxSum(int [][]mat)
 		System.out.println("Not possible");
 		System.exit(0);
 	}
-
-	
 	int max_sum = Integer.MIN_VALUE;
 	for (int i = 0; i < Row - 2; i++)
 	{
