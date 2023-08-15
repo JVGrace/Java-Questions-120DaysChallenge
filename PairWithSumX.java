@@ -1,5 +1,6 @@
 import java.util.HashSet;
 
+
 public class PairWithSumX {
     static boolean pairSum(int[] arr,int n, int x){
         HashSet<Integer> set = new HashSet<>();
@@ -19,6 +20,5 @@ public class PairWithSumX {
         sum = 10;
         System.out.println("Pair with sum "+sum+" "+pairSum(arr,arr.length,sum));
     }
-}
 /**
  * @author Pradumn Patel */
