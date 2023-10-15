@@ -23,6 +23,3 @@ class matrix{
     System.out.print(a);
     }
 }
-
-/**
- * @author Pradumn Patel */

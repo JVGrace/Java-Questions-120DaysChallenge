@@ -42,6 +42,3 @@ public class BubbleSort {
     }
 
 }
-
-/**
- * @author Pradumn Patel */

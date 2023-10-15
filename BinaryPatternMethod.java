@@ -15,6 +15,3 @@ public class Pattern
         }  
     }  
 }  
-
-/**
- * @author Pradumn Patel */

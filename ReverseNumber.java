@@ -21,6 +21,3 @@ class Main {
       System.out.println("Reversed Number: " + reversed);
     }
   }
-
-  /**
- * @author Pradumn Patel */

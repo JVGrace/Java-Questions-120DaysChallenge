@@ -1,10 +1,11 @@
+//Code for Trendy Number
 import java.util.*;
-public class Main{
+public class Main {
    
    public static void main(String[] args) {
-      System.out.println("Enter the number: ");
+    System.out.println("Enter the number: ")
       Scanner scan = new Scanner(System.in);
-      int inputNumber = scan.nextInt();
+      int inputNumber = scan.nextInt;
 
       
       int i;
@@ -13,7 +14,7 @@ public class Main{
       int temp = inputNumber;
       while(temp!=0){
         i=1;
-        factorial=1;
+        factorial=1
         digit=temp%10;
         while(i<=digit){
         factorial= factorial*1;
@@ -25,15 +26,11 @@ public class Main{
 
       }
       
-      if(sum == inputNumber){
+      if(sum == inputNumber)
          
          System.out.println(inputNumber + " is a strong number\n");
-      }
-      else{
+      else
          
          System.out.println(inputNumber + " is not a strong number\n");
-      }
-      }   
+   }   
 }
-/**
- * @author Pradumn Patel */

@@ -18,7 +18,9 @@ Sample Output 2:
 
 public class Solution {
 
-	class TreeNode<T> {
+/*	TreeNode class 
+ * 
+ * class TreeNode<T> {
 		T data;
 		ArrayList<TreeNode<T>> children;
 
@@ -26,12 +28,13 @@ public class Solution {
 			this.data = data;
 			children = new ArrayList<TreeNode<T>>();
 		}
-	}
+	}*/
 
 	
 	public static int numNodeGreater(TreeNode<Integer> root,int x){
 
-	
+		// Write your code here		
+        
         if(root == null)
             return 0;
         
@@ -47,6 +50,3 @@ public class Solution {
 	}
 	
 }
-
-/**
- * @author Pradumn Patel */

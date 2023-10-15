@@ -77,6 +77,4 @@ class sortQueue
 	}
 }
 
-/**
- * @author Pradumn Patel */
 

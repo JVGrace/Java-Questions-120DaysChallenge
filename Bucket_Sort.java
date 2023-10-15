@@ -11,6 +11,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
 
+/**
+ * http://www.growingwiththeweb.com/2015/06/bucket-sort.html
+ */
 public class BucketSort {
 
     private static final int DEFAULT_BUCKET_SIZE = 5;
@@ -68,6 +71,3 @@ public class BucketSort {
     }
 
 }
-
-/**
- * @author Pradumn Patel */

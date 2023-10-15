@@ -1,3 +1,5 @@
+package SummerTrainingGFG.Hashing;
+
 import java.util.HashSet;
 
 public class InsertionOfArray {
@@ -21,6 +23,3 @@ public class InsertionOfArray {
         System.out.println("Intersection array has - "+intersectionArray(a,b,a.length,b.length)+" elements");
     }
 }
-
-/**
- * @author Pradumn Patel */

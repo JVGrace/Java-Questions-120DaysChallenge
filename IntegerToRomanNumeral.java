@@ -60,6 +60,3 @@ int input=c.nextInt();
     System.out.print(s);
 }
 }
-
-/**
- * @author Pradumn Patel */

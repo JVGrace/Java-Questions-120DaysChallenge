@@ -45,6 +45,5 @@ static int findMaxSum(int [][]mat)
 	
 }
 
-/**
- * @author Pradumn Patel */
+
 

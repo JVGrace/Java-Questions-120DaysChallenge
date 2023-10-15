@@ -23,6 +23,3 @@ class LeadersInArray
 		lead.printLeaders(arr, n);
 	}
 }
-
-/**
- * @author Pradumn Patel */

@@ -48,6 +48,3 @@ class CircularPrime
         }
     }
 }
-
-/**
- * @author Pradumn Patel */

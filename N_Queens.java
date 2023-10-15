@@ -95,5 +95,4 @@ public static void placeNQueens(int n){
 	
 }
 
-/**
- * @author Pradumn Patel */
+

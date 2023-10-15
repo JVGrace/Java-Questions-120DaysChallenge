@@ -18,5 +18,3 @@ class trendyNo{
             }
         }
 } 
-/**
- * @author Pradumn Patel */

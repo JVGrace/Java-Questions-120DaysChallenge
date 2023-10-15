@@ -28,6 +28,3 @@ public class UniqueNumber {
             System.out.println("The number is not unique:"+number);  
         }  
 }  
-
-/**
- * @author Pradumn Patel */
