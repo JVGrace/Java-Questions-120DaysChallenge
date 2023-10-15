@@ -9,9 +9,6 @@
 
 import java.util.Arrays;
 
-/**
- * http://www.geeksforgeeks.org/heap-sort/
- */
 public class HeapSort {
     public static void sort(int[] arr) {
         int n = arr.length;
@@ -59,3 +56,6 @@ public class HeapSort {
     }
 
 }
+
+/**
+ * @author Pradumn Patel */

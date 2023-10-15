@@ -1,5 +1,3 @@
-package com.javaaid.hackerrank.solutions.algorithms.greedy;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -35,3 +33,5 @@ public class JimAndTheOrders {
 		sc.close();
 	}
 }
+/**
+ * @author Pradumn Patel */

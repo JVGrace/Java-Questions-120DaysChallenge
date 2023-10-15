@@ -16,8 +16,6 @@ Bombay->Delhi, Delhi->Goa, Goa->Chennai, Chennai->Banglore,
 
  */
 
-package com.company.JavaDaily;
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -53,3 +51,6 @@ public class ticketProblem {
         ticket();
     }
 }
+
+/**
+ * @author Pradumn Patel */

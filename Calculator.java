@@ -1,5 +1,3 @@
-package com.kunal;
-
 import java.util.Scanner;
 
 public class Calculator {
@@ -44,3 +42,6 @@ public class Calculator {
         }
     }
 }
+
+/**
+ * @author Pradumn Patel */
