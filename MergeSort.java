@@ -56,7 +56,7 @@ public class MergeSort {
         }
     }
 
-    //
+    
     private static void mergeSort(int[] arr, int[] helper, int l, int r) {
         if (l >= r) return;
 
@@ -108,3 +108,6 @@ public class MergeSort {
     }
 
 }
+
+/**
+ * @author Pradumn Patel */

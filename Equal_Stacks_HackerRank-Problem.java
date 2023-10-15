@@ -3,10 +3,7 @@ package com.javaaid.hackerrank.solutions.algorithms.greedy;
 import java.util.Scanner;
 import java.util.Stack;
 
-/**
- * @author Kanahaiya Gupta
- *
- */
+
 public class EqualStacks {
 	static int equalStacks(int[] h1, int[] h2, int[] h3) {
 
@@ -78,3 +75,5 @@ public class EqualStacks {
 		in.close();
 	}
 }
+/**
+ * @author Pradumn Patel */

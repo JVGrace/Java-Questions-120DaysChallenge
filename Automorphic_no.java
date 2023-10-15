@@ -25,3 +25,6 @@ public class Automorphic {
             System.out.println("Not an Automorphic number");
     }
 }
+
+/**
+ * @author Pradumn Patel */
