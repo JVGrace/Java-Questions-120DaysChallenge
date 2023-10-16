@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class Automorphic {
+public class Automorphic_no {
  
     public static void main(String args[]){
  
